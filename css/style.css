@@ -7,3 +7,11 @@ header{
     width: 400px;
    margin-top: 50px;
 }
+
+h1{
+    font-size: 60px;
+}
+
+.autore{
+    color: rgb(17, 168, 227);
+}
