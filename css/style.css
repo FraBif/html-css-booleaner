@@ -1,3 +1,4 @@
+
 header{
    background-image:url("../img/pattern.png") ;
    background-color: rgb(72, 174, 232);
@@ -10,8 +11,21 @@ header{
 
 h1{
     font-size: 60px;
+
 }
 
 .autore{
     color: rgb(17, 168, 227);
+}
+
+section{
+    margin-top: 30px;
+}
+
+.marked{
+    background-color: yellow;
+}
+
+ul{
+    margin-left: -25px;
 }
