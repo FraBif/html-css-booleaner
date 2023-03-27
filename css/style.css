@@ -11,6 +11,8 @@ header{
 
 h1{
     font-size: 60px;
+    margin: 0;
+    padding: 0;
 
 }
 
@@ -28,4 +30,18 @@ section{
 
 ul{
     margin-left: -25px;
+}
+
+table{
+    text-align: left;
+}
+
+th{
+    width: 400px;
+    color: white;
+    background-color: rgb(29, 166, 229);
+}
+
+.rowread{
+    background-color: lightblue;
 }
