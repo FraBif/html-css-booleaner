@@ -35,6 +35,7 @@ ul{
 
 table{
     text-align: left;
+    border-collapse: collapse;
 }
 
 th{
