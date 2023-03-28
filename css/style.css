@@ -16,6 +16,10 @@ h1{
 
 }
 
+.color-grey{
+    color: lightgray;
+}
+
 .autore{
     color: rgb(17, 168, 227);
 }
